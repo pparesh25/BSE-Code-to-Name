@@ -1,7 +1,7 @@
 ''' if code not work Replace "latin-1" in 
 line 14 with the appropriate encoding like
 
-"latin-1" , "utf-16" , "cp1252" , "iso-8859-1"
+"utf-8" , "utf-16" , "cp1252" , "iso-8859-1"
 
  '''
 
