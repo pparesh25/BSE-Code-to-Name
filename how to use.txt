@@ -16,3 +16,7 @@
 7) Verify the changes: Once the script has finished running,
     you can check the modified Bhavcopy.txt files
     in the C:\BSE folder to confirm that the program worked correctly.
+    
+ 8) if code not work Replace "latin-1" in line 14 with the appropriate encoding like
+
+            "latin-1" , "utf-16" , "cp1252" , "iso-8859-1"
