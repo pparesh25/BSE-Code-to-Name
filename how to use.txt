@@ -1,0 +1,18 @@
+1) install python
+
+2) Creat folder name "BSE" in C:, C:\BSE and place all bhavcopy.txt files in this folder
+
+3) Creat folder name "CSV" in C:, C:\CSV place csv file "name.csv" downloaded in main.zip 
+                       
+4) Place Python script "BSE-Code-to-Name.py" on Desktop 
+
+5) To run python script, right cick on Desktop Empty space and choos --> open in terminal <-- and type 
+     
+           python BSE-Code-to-Name.py
+           
+6) The script will run and modify all the Bhav copy .txt files in the C:\BSE folder,
+        replacing the BSE codes with their corresponding names.
+
+7) Verify the changes: Once the script has finished running,
+    you can check the modified Bhav copy .txt files
+    in the C:\BSE folder to confirm that the program worked correctly.
