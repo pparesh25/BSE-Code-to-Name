@@ -1,5 +1,7 @@
 # BSE-Code-to-Name
 
+BSE script code to symbol
+
 Change BSE Code to Name in BSE-EQ bhav copy downloaded by getbhavcopy
 
 BSE bhavcopy downloaded by getbhavcopy software 
